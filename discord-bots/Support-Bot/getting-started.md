@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2020-04-26T00:35:36.038Z
+date: 2020-04-26T00:50:13.860Z
 tags: 
 ---
 
@@ -25,4 +25,4 @@ Get your bot token from [https://discordapp.com/developers/applications/me](http
 5. Copy token
 6. Paste in your `config.json` file
 
-[Further configuration](https://https://wiki.flanderscraft.be/discord-bots/Support-Bot/Configuration)
+[Further configuration](https://wiki.flanderscraft.be/discord-bots/Support-Bot/Configuration)
