@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-04-26T00:32:39.980Z
+date: 2020-04-26T00:46:57.496Z
 tags: 
 ---
 
@@ -40,3 +40,5 @@ As you can determine this scheduler can be used to have a late-night channel.
 Each server member is limited to one open ticket at a time (ticket channel name included part of their userID and discriminator to prevent the need to use a json file/database for user/channel information storage)
 
 The bot also automatically pins the welcome message so it is easy for staff to nagivate to the start of the ticket.
+
+[Getting Started](https://wiki.flanderscraft.be/en/discord-bots/Support-Bot/getting-started)
