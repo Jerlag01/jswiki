@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-04-26T00:46:57.496Z
+date: 2020-04-30T15:30:22.843Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 A simple (ish) Discord™️ bot to manage support tickets to allow you and your team to provide better and quicker assistance to your community members.
 
 ## Quick Start
-[Download](https://github.com/ServerNode/Support-Bot/releases/tag/v1.1.2) the bot and extract or use `git clone https://github.com/ServerNode/Support-Bot.git`.
+[Download](https://github.com/FlandersCraft/Support-Bot/releases/tag/v1.1.2) the bot and extract or use `git clone https://github.com/FlandersCraft/Support-Bot.git`.
 Follow setup instructions on the next page.
 
 ## Commands
@@ -26,9 +26,6 @@ The help menu provides an example for each command, along with usage (parameters
 An example command / template is provided if you want to create your own command (such as `!website` for example).
 
 The bot can be configured to use either embeds or plain text.
-
-Example of a new ticket:
-![Image](https://i.imgur.com/ucqqTYG.png)
 
 ## Schedule
 The Bot is equiped with a schedule that locks and unlocks a certain channel at a preconfigured time:
